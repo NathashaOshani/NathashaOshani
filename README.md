@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 IT Undergraduate at the **University of Moratuwa**<br>- 💻 Interested in **Full-Stack Development & Software Engineering**<br>- 🤖 Exploring **AI integration in modern web applications**<br>- 🌱 Continuously learning new technologies and improving my development skills<br>- 🚀 Interested in building practical solutions for real-world problems<br>- 🤝 Open to collaborating on interesting software and open-source projects
+-🎓 IT Undergraduate at the **University of Moratuwa**<br>- 💻 Interested in **Full-Stack Development & Software Engineering**<br>- 🤖 Exploring **AI integration in modern web applications**<br>- 🌱 Continuously learning new technologies and improving my development skills<br>- 🚀 Interested in building practical solutions for real-world problems<br>- 🤝 Open to collaborating on interesting software and open-source projects
 
 
 ## 🌐 Socials:
