@@ -1,129 +1,24 @@
-<h1 align="center">Hi 👋, I'm Nathasha</h1>
+# 💫 About Me:
+- 🎓 IT Undergraduate at the **University of Moratuwa**<br>- 💻 Interested in **Full-Stack Development & Software Engineering**<br>- 🤖 Exploring **AI integration in modern web applications**<br>- 🌱 Continuously learning new technologies and improving my development skills<br>- 🚀 Interested in building practical solutions for real-world problems<br>- 🤝 Open to collaborating on interesting software and open-source projects
 
-<h3 align="center">
-IT Undergraduate at University of Moratuwa | Full-Stack Developer
-</h3>
 
-<p align="center">
-Passionate about Software Engineering, Full-Stack Development, and building real-world applications with AI integration.
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nathasha_manage) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nathasha Manage) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathashawarnasinghe9@gmail.com) 
 
-## 👩‍💻 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=NathashaOshani&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=NathashaOshani&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=NathashaOshani&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🎓 IT Undergraduate at the **University of Moratuwa**
-- 💻 Interested in **Full-Stack Development & Software Engineering**
-- 🤖 Exploring **AI integration in modern web applications**
-- 🌱 Continuously learning new technologies and improving my development skills
-- 🚀 Interested in building practical solutions for real-world problems
-- 🤝 Open to collaborating on interesting software and open-source projects
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NathashaOshani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-  ## 🛠️ Tech Stack
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Languages
+---
+[![](https://komarev.com/ghpvc/?username=NathashaOshani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-## 🚀 Featured Projects
-
-## 💼 Organization & Team Projects
-
-### 🌐 UBE — Skyte
-
-Contributed to the UBE project as part of the Skyte organization.
-
-**My Contributions:**
-- Add your specific contribution here
-- Add the features/modules you worked on
-- Add the technologies you used
-
-**Tech Stack:** Add the actual technologies here
-
-🔗 [View Project / Repository](ADD_LINK_HERE)
-
-### 🤖 TaskFlow — AI-Powered Task Management
-
-A modern productivity application designed to help users manage tasks and break complex goals into actionable steps using AI.
-
-**Key Features**
-- AI-powered goal breakdown using Gemini API
-- Task creation, editing and completion tracking
-- AI-generated task review and approval
-- Persistent local storage
-- Responsive modern UI
-- Secure serverless API integration
-
-**Tech Stack:** React • Vite • JavaScript • Node.js • Gemini API • Framer Motion • LocalStorage
-
-🌐 [Live Demo](https://todo-app-iota-tawny.vercel.app/)  
-💻 [GitHub Repository](https://github.com/NathashaOshani/todo-app)
-
-### 🌐 Personal Portfolio
-
-A modern personal portfolio showcasing my projects, skills, services, and development experience.
-
-**Tech Stack:** React • TypeScript • Vite • Tailwind CSS • Framer Motion
-
-💻 [GitHub Profile](https://github.com/NathashaOshani)
-
-### 🔐 Advanced Smart Gate Lock System
-
-A smart security system developed to provide intelligent and reliable gate access control.
-
-**Key Features**
-- Fingerprint authentication
-- Live camera monitoring
-- Motion detection
-- Two-way audio
-- Smart gate lock control
-- Backup power protection
-- Web and mobile integration
-
-**Technologies:** Raspberry Pi • ESP32 • Embedded Systems • Sensors • Web Technologies
-
-### 🍔 Food Delivery System
-
-A responsive food delivery web application for browsing food items, managing a shopping cart, and placing orders.
-
-**Tech Stack:** React • JavaScript • HTML • CSS • React Router
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NathashaOshani&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathashaOshani&layout=compact&hide_border=true" />
-</p>
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathasha-manage-9012a7290/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NathashaOshani)
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
